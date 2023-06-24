@@ -1,3 +1,4 @@
+import Heder from "./componentes/Heder";
 
 function App() {
   return <>
